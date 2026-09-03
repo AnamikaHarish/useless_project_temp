@@ -1,4 +1,9 @@
-# GHOOGLE PHOTOS 🎯
+<img width="1280" height="640" alt="git (1)" src="https://github.com/user-attachments/assets/8920b256-2ba8-4988-b824-5351134eb4bd" />
+
+
+
+# [Project Name] 🎯
+
 
 ## Basic Details
 
@@ -146,4 +151,5 @@ Made with ❤️ at TinkerHub Useless Projects
 
 ![TinkerHub](https://img.shields.io/badge/TinkerHub-24?color=%23000000)
 
-![Useless Projects](https://img.shields.io/badge/UselessProjects--26-26)
+
+
