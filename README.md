@@ -149,7 +149,11 @@ public/
 
 Made with ❤️ at TinkerHub Useless Projects
 
-![TinkerHub](https://img.shields.io/badge/TinkerHub-24?color=%23000000)
+![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
+![Static Badge](https://img.shields.io/badge/UselessProjects--26-26?link=https%3A%2F%2Ftinkerhub.org%2Fevents%2F1M8ORET9A1%2Fuseless-projects-3.0)
 
+
+
+>>>>>>> 5fd2852f3fd81b934774301e40a33958cce79887
 
 
