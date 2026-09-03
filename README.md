@@ -2,7 +2,7 @@
 
 
 
-# [Project Name] 🎯
+# GHOOGLE PHOTOS  🎯
 
 
 ## Basic Details
