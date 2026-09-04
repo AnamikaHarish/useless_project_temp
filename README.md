@@ -88,8 +88,7 @@ npm run build
 
 ### Screenshots
 
-![Landing Page](screenshots/landing.png)![alt text](<Screenshot 2026-09-04 041857.png>)
-
+![Landing Page](screenshots/landing.png)
 **The professional GHOOGLE PHOTOS landing page designed to initially look like a legitimate premium AI photo-analysis platform.**
 
 ![Analysis Anomaly](screenshots/anomaly.png)
