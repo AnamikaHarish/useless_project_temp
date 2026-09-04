@@ -88,7 +88,8 @@ npm run build
 
 ### Screenshots
 
-![Landing Page](screenshots/landing.png)
+![Landing Page](screenshots/landing.png)<img width="1787" height="801" alt="Screenshot 2026-09-04 041857" src="https://github.com/user-attachments/assets/5e253072-4ea1-4c69-a801-f22e1899015f" />
+
 **The professional GHOOGLE PHOTOS landing page designed to initially look like a legitimate premium AI photo-analysis platform.**
 
 ![Analysis Anomaly](screenshots/anomaly.png)
